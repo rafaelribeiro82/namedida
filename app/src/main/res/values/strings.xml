@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">Na Medida</string>
+
+    <string-array name="spin_medidas">
+        <item>Selecione a Medida...</item>
+        <item>Cintura</item>
+        <item>Busto</item>
+        <item>Quadril</item>
+        <item>Pescoço</item>
+
+    </string-array>
+
+</resources>

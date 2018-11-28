@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:gravity="center_vertical"
+    android:orientation="vertical"
+    android:background="@drawable/telafundo1"
+    tools:context=".MainActivity">
+
+
+    <Button
+        android:id="@+id/clientes"
+        android:layout_width="165dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="130dp"
+        android:layout_marginTop="300dp"
+        android:gravity="center_vertical"
+        android:text="Clientes"
+        android:textAlignment="center" />
+
+    <Button
+        android:id="@+id/consultar"
+        android:layout_width="163dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="130dp"
+        android:gravity="center_vertical"
+        android:text="Encomendas"
+        android:textAlignment="center" />
+
+
+
+    <Button
+        android:id="@+id/info"
+        android:layout_width="163dp"
+        android:layout_height="60dp"
+        android:layout_marginLeft="130dp"
+        android:gravity="center_vertical"
+        android:text="Info"
+        android:textAlignment="center" />
+
+</LinearLayout>

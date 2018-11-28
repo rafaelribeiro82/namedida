@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "898251067523",
+    "firebase_url": "https://na-medida.firebaseio.com",
+    "project_id": "na-medida",
+    "storage_bucket": "na-medida.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:898251067523:android:f3ea7cdfdefdb8df",
+        "android_client_info": {
+          "package_name": "com.example.rafaelribeiro.namedida"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "898251067523-g6rdq1krlg40fjrsrba2cq46ml8hiajo.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.rafaelribeiro.namedida",
+            "certificate_hash": "da4ba76f727ebf59ac5de6e4ce56030d9b4e20e1"
+          }
+        },
+        {
+          "client_id": "898251067523-iul3dmtsr2hanig6grffogfp69au5n94.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCHS01SFrSs7aodN_jZAk2IbB5oBAd2prQ"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "898251067523-iul3dmtsr2hanig6grffogfp69au5n94.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
